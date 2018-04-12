@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Country names</string>
+    <string name="search_names">Search Names</string>
+    <string name="error">Error</string>
+</resources>
